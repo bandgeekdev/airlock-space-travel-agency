@@ -1,1 +1,17 @@
 /secrets
+/node_modules
+/dist
+/build
+.env
+.DS_Store
+*.log
+*.sqlite
+*.sqlite3
+coverage/
+.vscode/
+.idea/
+*.local
+*.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
